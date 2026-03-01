@@ -1,0 +1,21 @@
+title: EDoN
+description: Early Detection of Neurodegenerative diseases initiative
+theme: minima
+
+# Optional but recommended
+url: "https://edon-initiative.github.io"
+baseurl: ""
+
+author:
+  name: Neil Oxtoby, UCL
+
+# Show posts on homepage
+show_excerpts: true
+
+header_pages:
+  - news.md
+  - data.md
+  - projects.md
+  - people.md
+  - publications.md
+  - contact.md
