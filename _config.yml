@@ -6,7 +6,7 @@ theme: minima
 url: "https://edon-initiative.github.io"
 baseurl: ""
 
-author: Neil Oxtoby, UCL
+# author: Neil Oxtoby, UCL
 
 # Show posts on homepage
 show_excerpts: true
